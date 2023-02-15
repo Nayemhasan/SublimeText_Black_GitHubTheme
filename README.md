@@ -12,7 +12,7 @@
 
 ## How to install
 
-1. Download the latest release and unzip.
+1. Download the latest [release](https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/releases/tag/V.1) and unzip.
 2. Go to `Sublime Text → Preferences → Browse Packages`.
 3. Copy and paste the unzipped folder here.
 <p align="center">
