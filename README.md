@@ -1,6 +1,5 @@
 # SublimeText_Black_GitHubTheme
- All black theme for sublime text
-**Project inspired on [GitHub VS Code theme](https://github.com/primer/github-vscode-theme).**
+ All black theme for sublime text **inspired on [GitHub VS Code theme](https://github.com/primer/github-vscode-theme).**
 
  <table>
    <td>Before</td>
