@@ -3,6 +3,16 @@
 
 **Project inspired on [GitHub VS Code theme](https://github.com/primer/github-vscode-theme).**
 
+ <table>
+   <td>Before</td>
+   <td>After</td>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blk.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blkmelon.jpg"></td>
+  </tr>
+ </table>
+
+
 1. Download the latest release and unzip.
 2. Go to `Sublime Text → Preferences → Browse Packages`.
 3. Move folder inside and rename the folder to `GitHub Theme`.
