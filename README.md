@@ -15,6 +15,9 @@
 1. Download the latest release and unzip.
 2. Go to `Sublime Text → Preferences → Browse Packages`.
 3. Move folder inside and rename the folder to `GitHub Theme`.
+<p align="center">
+        <img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/savethemes.jpg"/>
+</p>
 
 
 ## Activate the Theme
