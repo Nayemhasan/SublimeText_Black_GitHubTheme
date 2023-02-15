@@ -10,6 +10,7 @@
   </tr>
  </table>
 
+## How to install
 
 1. Download the latest release and unzip.
 2. Go to `Sublime Text → Preferences → Browse Packages`.
