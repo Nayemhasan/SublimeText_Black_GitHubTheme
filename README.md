@@ -16,21 +16,27 @@
 2. Go to `Sublime Text → Preferences → Browse Packages`.
 3. Copy and paste the unzipped folder here.
 <p align="center">
-        <img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/savethemes.jpg"/>
+  <img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/savethemes.jpg"/>
 </p>
 
 
 ## Activate the Theme
 
-**You can activate available themes from:**
-
 1. Command Palette `Tools → Command Palette` or `CMD/CTRL` + `SHIFT` + `P`
 2. Typing `UI: Select Theme → GitHub Dark`
 3. Finally press `ENTER`:
+<p align="center">
+  <img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/seltheme.jpg"/>
+</p>
 
 
-**You can activate available schemes from:**
+## Activate color schemes
 
 1. Command Palette `Tools → Command Palette` or `CMD/CTRL` + `SHIFT` + `P`
 2. Typing `UI: Select Color Scheme → GitHub Dark`    
 3. Finally press `ENTER`:
+<p align="center">
+  <img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/selcolorscheme.jpg"/>
+</p>
+
+## Done✔
