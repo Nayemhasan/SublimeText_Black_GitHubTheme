@@ -7,7 +7,7 @@
    <td>Before</td>
    <td>After</td>
   <tr>
-    <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blk.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme/blob/main/pics/before.jpg"></td>
     <td><img src="https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes/blob/main/pics/blkmelon.jpg"></td>
   </tr>
  </table>
